@@ -1,0 +1,15 @@
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/bin/Debug/net8.0/BlazorShared.dll
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/bin/Debug/net8.0/BlazorShared.pdb
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/obj/Debug/net8.0/Applicat.71DDEAC9.Up2Date
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+/Users/lijiaxuan/Downloads/2024弦儿自学/eshop-2024/src/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
